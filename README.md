@@ -107,11 +107,7 @@ The interesting bugs live in the space between what a system was designed to do 
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Giridhar-R/Giridhar-R/output/github-snake.svg" width="100%">
 </picture>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giridhar-R&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2dd4bf&text_color=8fb5b0" width="46%"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giridhar-R&bg_color=0a0f14&color=2dd4bf&line=2dd4bf&point=7ff3e3&area_color=07312e&area=true&hide_border=true" width="100%"/>
 
