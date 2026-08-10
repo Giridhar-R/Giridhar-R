@@ -23,9 +23,13 @@ class RedTeamer:
     org      = "Amrita Vishwa Vidyapeetham"
 
     current_ops = [
-        "AI & agentic-systems red teaming  →  Securin Inc.",
-        "SentinelOps: multi-agent SOC triage  →  Self",
         "Forensics & web exploitation      →  Team Hunter",
+        "SentinelOps: multi-agent SOC triage  →  Self",
+    ]
+
+    past_ops = [
+        "AI & agentic-systems red teaming  →  Securin Inc. (Apr 2026)",
+        "LLM + RAG GRC assistant           →  HCL Technologies",
     ]
 
     focus = [
@@ -93,21 +97,43 @@ The interesting bugs live in the space between what a system was designed to do 
 
 ---
 
-## `[ ACTIVE OPS ]`
+## `[ COMMIT LOG ]`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Giridhar-R/Giridhar-R/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Giridhar-R/Giridhar-R/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Giridhar-R/Giridhar-R/output/github-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giridhar-R&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2dd4bf&text_color=8fb5b0" width="46%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giridhar-R&bg_color=0a0f14&color=2dd4bf&line=2dd4bf&point=7ff3e3&area_color=07312e&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## `[ OPS LOG ]`
 
 <table align="center" width="92%">
 <tr>
-<td width="4px" bgcolor="#2dd4bf"></td>
+<td width="4px" bgcolor="#38bdf8"></td>
 <td valign="top"><br/>
 
-**`ACTIVE`** &nbsp;&nbsp; `securin :: agentic-red-teaming`
+**`INTERNSHIP`** &nbsp;&nbsp; `securin :: agentic-red-teaming`
 
 > Adversarial testing of LLM and agentic systems — prompt injection, jailbreak chains, and tool-misuse paths where an agent is talked into using its own capabilities against its operator. Automated with PyRIT and TAMAS.
 
 ![](https://img.shields.io/badge/PyRIT-0a0f14?style=flat-square&labelColor=07312e&color=2dd4bf)
 ![](https://img.shields.io/badge/TAMAS-0a0f14?style=flat-square&labelColor=07312e&color=5eead4)
 ![](https://img.shields.io/badge/attack_surface-prompt_·_tool_·_memory-0a0f14?style=flat-square&labelColor=07312e&color=38bdf8)
-![](https://img.shields.io/badge/status-ongoing_●-0a0f14?style=flat-square&labelColor=07312e&color=2dd4bf)
+![](https://img.shields.io/badge/status-completed_·_apr_2026-0a0f14?style=flat-square&labelColor=07312e&color=94a3b8)
 <br/><br/></td>
 </tr>
 </table>
@@ -116,7 +142,7 @@ The interesting bugs live in the space between what a system was designed to do 
 
 <table align="center" width="92%">
 <tr>
-<td width="4px" bgcolor="#38bdf8"></td>
+<td width="4px" bgcolor="#2dd4bf"></td>
 <td valign="top"><br/>
 
 **`SHIPPED`** &nbsp;&nbsp; [`sentinel-ops :: multi-agent SOC triage`](https://github.com/Giridhar-R/SentinelOps)
@@ -126,7 +152,7 @@ The interesting bugs live in the space between what a system was designed to do 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Splunk_MCP_Server-000000?style=flat-square&logo=splunk&logoColor=white)
 ![](https://img.shields.io/badge/agents-5_parallel-0a0f14?style=flat-square&labelColor=07312e&color=38bdf8)
-![](https://img.shields.io/badge/status-shipped_●-0a0f14?style=flat-square&labelColor=07312e&color=38bdf8)
+![](https://img.shields.io/badge/status-shipped_●-0a0f14?style=flat-square&labelColor=07312e&color=2dd4bf)
 <br/><br/></td>
 </tr>
 </table>
