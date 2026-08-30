@@ -60,38 +60,49 @@ The interesting bugs live in the space between what a system was designed to do 
 
 <div align="center">
 
-<sub>// languages</sub>
+<sub>// programming</sub>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,rust,bash&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,rust&theme=dark&perline=6"/>
 
 <br/>
 
-<sub>// ai & llm stack</sub>
+<sub>// web &amp; app development</sub>
 
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![REST API](https://img.shields.io/badge/REST_API-0a0f14?style=flat-square&labelColor=07312e&color=2dd4bf)](https://developer.mozilla.org/docs/Glossary/REST)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://sqlalchemy.org)
+
+<br/>
+
+<sub>// ai, llm &amp; vision</sub>
+
+[![LangGraph](https://img.shields.io/badge/LangGraph-0a0f14?style=flat-square&labelColor=07312e&color=2dd4bf)](https://langchain-ai.github.io/langgraph/)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
-[![Ollama](https://img.shields.io/badge/Ollama-0a0f14?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
 [![PyRIT](https://img.shields.io/badge/PyRIT-0a0f14?style=flat-square&labelColor=07312e&color=2dd4bf)](https://github.com/Azure/PyRIT)
+[![TAMAS](https://img.shields.io/badge/TAMAS-0a0f14?style=flat-square&labelColor=07312e&color=5eead4)](https://github.com/Giridhar-R)
+[![Ollama](https://img.shields.io/badge/Ollama_·_Mistral--7B-0a0f14?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
+[![SQLCoder](https://img.shields.io/badge/SQLCoder-0a0f14?style=flat-square&labelColor=07312e&color=38bdf8)](https://huggingface.co/defog)
 [![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)](https://faiss.ai)
-[![MCP](https://img.shields.io/badge/Model_Context_Protocol-0a0f14?style=flat-square&labelColor=07312e&color=2dd4bf)](https://modelcontextprotocol.io)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/edge/mediapipe)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
 
 <br/>
 
-<sub>// security tools</sub>
+<sub>// security &amp; tools</sub>
 
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://wireshark.org)
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)](https://splunk.com)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://wireshark.org)
-[![Autopsy](https://img.shields.io/badge/Autopsy-4B77BE?style=flat-square&logoColor=white)](https://sleuthkit.org/autopsy)
-[![Volatility](https://img.shields.io/badge/Volatility-1a1a1a?style=flat-square&logoColor=white)](https://volatilityfoundation.org)
-[![Ghidra](https://img.shields.io/badge/Ghidra-CC0000?style=flat-square&logoColor=white)](https://ghidra-sre.org)
 [![Nmap](https://img.shields.io/badge/Nmap-4B77BE?style=flat-square&logoColor=white)](https://nmap.org)
+[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://netacad.com)
 
 <br/>
 
-<sub>// infra & data</sub>
+<sub>// infra &amp; data</sub>
 
-<img src="https://skillicons.dev/icons?i=docker,linux,mysql,git,github,opencv,postman,vscode&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,docker,gcp,mysql,bash&theme=dark&perline=5"/>
 
 </div>
 
@@ -101,15 +112,23 @@ The interesting bugs live in the space between what a system was designed to do 
 
 <div align="center">
 
+<sub>// contribution calendar &nbsp;·&nbsp; live, rendered fresh on every page load</sub>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/2dd4bf/Giridhar-R" width="94%" alt="R Giridhar's GitHub contribution chart"/>
+
+<br/><br/><br/>
+
+<sub>// the snake eats the calendar &nbsp;·&nbsp; regenerated every 6h by GitHub Actions</sub>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Giridhar-R/Giridhar-R/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Giridhar-R/Giridhar-R/output/github-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Giridhar-R/Giridhar-R/output/github-snake.svg" width="100%">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Giridhar-R/Giridhar-R/output/github-snake-dark.svg" width="100%">
 </picture>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giridhar-R&bg_color=0a0f14&color=2dd4bf&line=2dd4bf&point=7ff3e3&area_color=07312e&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -129,7 +148,7 @@ The interesting bugs live in the space between what a system was designed to do 
 ![](https://img.shields.io/badge/PyRIT-0a0f14?style=flat-square&labelColor=07312e&color=2dd4bf)
 ![](https://img.shields.io/badge/TAMAS-0a0f14?style=flat-square&labelColor=07312e&color=5eead4)
 ![](https://img.shields.io/badge/attack_surface-prompt_·_tool_·_memory-0a0f14?style=flat-square&labelColor=07312e&color=38bdf8)
-![](https://img.shields.io/badge/status-completed_·_apr_2026-0a0f14?style=flat-square&labelColor=07312e&color=94a3b8)
+![](https://img.shields.io/badge/nov_2025_—_apr_2026-completed-0a0f14?style=flat-square&labelColor=07312e&color=94a3b8)
 <br/><br/></td>
 </tr>
 </table>
@@ -146,6 +165,7 @@ The interesting bugs live in the space between what a system was designed to do 
 > Five specialised AI agents working in parallel over the Splunk MCP Server, converging on a shared evidence board. One analyst's triage loop, decomposed — each agent owns a question, the board owns the conclusion.
 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/LangGraph-0a0f14?style=flat-square&labelColor=07312e&color=2dd4bf)
 ![](https://img.shields.io/badge/Splunk_MCP_Server-000000?style=flat-square&logo=splunk&logoColor=white)
 ![](https://img.shields.io/badge/agents-5_parallel-0a0f14?style=flat-square&labelColor=07312e&color=38bdf8)
 ![](https://img.shields.io/badge/status-shipped_●-0a0f14?style=flat-square&labelColor=07312e&color=2dd4bf)
@@ -180,7 +200,7 @@ The interesting bugs live in the space between what a system was designed to do 
 
 | where | what |
 |---|---|
-| **Team Hunter** — Amrita's CTF team | **7th in India** on CTFtime (2026) · forensics + web exploitation |
+| **Team Hunter** — Amrita's CTF team | **7th in India · 71st globally** on CTFtime (2026) · forensics + web exploitation |
 | **Securin Inc.** | AI & agentic-systems red teaming |
 | **HCL Technologies** | LLM + RAG compliance assistant |
 | **Visa 24h AI Hackathon** | Finalist — **top 50 of 300+** |
