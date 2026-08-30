@@ -112,7 +112,7 @@ The interesting bugs live in the space between what a system was designed to do 
 
 <div align="center">
 
-<sub>// streak &nbsp;·&nbsp; live, recounted on every page load</sub>
+
 
 <br/><br/>
 
@@ -120,7 +120,7 @@ The interesting bugs live in the space between what a system was designed to do 
 
 <br/><br/><br/>
 
-<sub>// contribution calendar &nbsp;·&nbsp; regenerated every 6h by GitHub Actions</sub>
+
 
 <br/><br/>
 
