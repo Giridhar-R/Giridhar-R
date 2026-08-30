@@ -116,7 +116,7 @@ The interesting bugs live in the space between what a system was designed to do 
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Giridhar-R&background=0a0f14&ring=2dd4bf&fire=38bdf8&currStreakNum=7ff3e3&sideNums=7ff3e3&currStreakLabel=2dd4bf&sideLabels=8fb5b0&dates=4f7d78&stroke=07312e&hide_border=true" width="68%" alt="R Giridhar's contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=Giridhar-R&background=0a0f14&ring=2dd4bf&fire=38bdf8&currStreakNum=7ff3e3&sideNums=7ff3e3&currStreakLabel=2dd4bf&sideLabels=8fb5b0&dates=4f7d78&stroke=07312e&hide_border=true&disable_animations=true" width="68%" alt="R Giridhar's contribution streak"/>
 
 <br/><br/><br/>
 
