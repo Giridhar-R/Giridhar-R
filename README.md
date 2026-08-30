@@ -112,15 +112,15 @@ The interesting bugs live in the space between what a system was designed to do 
 
 <div align="center">
 
-<sub>// contribution calendar &nbsp;·&nbsp; live, rendered fresh on every page load</sub>
+<sub>// streak &nbsp;·&nbsp; live, recounted on every page load</sub>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/2dd4bf/Giridhar-R" width="94%" alt="R Giridhar's GitHub contribution chart"/>
+<img src="https://streak-stats.demolab.com/?user=Giridhar-R&background=0a0f14&ring=2dd4bf&fire=38bdf8&currStreakNum=7ff3e3&sideNums=7ff3e3&currStreakLabel=2dd4bf&sideLabels=8fb5b0&dates=4f7d78&stroke=07312e&hide_border=true" width="68%" alt="R Giridhar's contribution streak"/>
 
 <br/><br/><br/>
 
-<sub>// the snake eats the calendar &nbsp;·&nbsp; regenerated every 6h by GitHub Actions</sub>
+<sub>// contribution calendar &nbsp;·&nbsp; regenerated every 6h by GitHub Actions</sub>
 
 <br/><br/>
 
